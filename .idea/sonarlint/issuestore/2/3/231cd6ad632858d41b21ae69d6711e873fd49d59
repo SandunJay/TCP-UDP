@@ -1,0 +1,7 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘„×žþÿÿÿÿ8ÕÏå›è1J$cc548b35-eb24-4533-a946-5ffb8987e22a
+”
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(”¿È•ýÿÿÿÿ8äÏå›è1J$e81c844f-fd13-4f6b-9b7d-0c24280c2c96
+
+java:S1854"<Remove this useless assignment to local variable "sendData".(Ýë‹Ô8äÏå›è1J$671affd8-711a-4d89-a254-259e2f563a12
+m	java:S106""+Replace this use of System.out by a logger.(¬¢ÛŠ8ûÏå›è1J$9a1a5781-d69f-4f1d-8da0-664f021dc2fa
